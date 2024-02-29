@@ -11,13 +11,13 @@ For this project, your task is to take the content for the homepage of a bird wa
 - Apply the provided CSS to the page by adding another <link> element just below the existing one provided at the start.
 
 - Adding a suitable wrapper for:
-  [ ] The header
-  [ ] The navigation menu
-  [ ] The main content
-  [ ] The welcome text
-  [ ] The image sidebar
-  [ ] The footer
-  [ ] You should also:
+- [ ]The header
+- [ ] The navigation menu
+- [ ] The main content
+- [ ] The welcome text
+- [ ] The image sidebar
+- [ ] The footer
+- [ ] You should also:
 
 # My biggest learnings
 
